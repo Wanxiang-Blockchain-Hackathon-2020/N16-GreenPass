@@ -1,0 +1,17 @@
+[
+    { "healthStatus": "接触健康人群", "date": "02/22", "value": 40 },
+    { "healthStatus": "接触健康人群", "date": "02/23", "value": 50 },
+    { "healthStatus": "接触健康人群", "date": "02/24", "value": 30 },
+    { "healthStatus": "接触健康人群", "date": "02/25", "value": 40 },
+    { "healthStatus": "接触健康人群", "date": "02/26", "value": 60},
+    { "healthStatus": "接触潜在人群", "date": "02/22", "value": 10},
+    { "healthStatus": "接触潜在人群", "date": "02/23", "value": 8},
+    { "healthStatus": "接触潜在人群", "date": "02/24", "value": 7},
+    { "healthStatus": "接触潜在人群", "date": "02/25", "value": 7},
+    { "healthStatus": "接触潜在人群", "date": "02/26", "value": 5},
+    { "healthStatus": "接触症状人群", "date": "02/22", "value": 2 },
+    { "healthStatus": "接触症状人群", "date": "02/23", "value": 0 },
+    { "healthStatus": "接触症状人群", "date": "02/24", "value": 1 },
+    { "healthStatus": "接触症状人群", "date": "02/25", "value": 1 },
+    { "healthStatus": "接触症状人群", "date": "02/26", "value": 1 }
+]

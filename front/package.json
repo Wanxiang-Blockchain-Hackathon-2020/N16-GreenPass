@@ -1,0 +1,44 @@
+{
+  "name": "xhnb",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@antv/g2plot": "^0.11.35",
+    "@rebass/grid": "^6.1.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "antd": "^4.0.1",
+    "antv": "^0.2.2",
+    "qrcode.react": "^1.0.0",
+    "react": "^16.13.0",
+    "react-art-svg-renderer": "0.0.1-rc.8",
+    "react-blocks": "^1.1.4",
+    "react-dom": "^16.13.0",
+    "react-flexbox-grid": "^2.1.2",
+    "react-icons": "^3.9.0",
+    "react-qr-code": "^0.1.3",
+    "react-scripts": "3.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
